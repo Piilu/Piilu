@@ -42,22 +42,16 @@ Sunday                   131 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-TypeScript               5 hrs 53 mins       ██████████████████████░░░   86.53 % 
-JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 hrs 49 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-praam-scrap2             6 hrs 11 mins       ███████████████████████░░   90.89 % 
-praam-pwa                37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 hrs 11 mins       ███████████████████████░░   90.89 % 
-Linux                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,5 +71,5 @@ Svelte                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Piilu/Piilu/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2023 18:39:02 UTC
+ Last Updated on 24/07/2023 18:40:42 UTC
 <!--END_SECTION:waka-->
