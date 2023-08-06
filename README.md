@@ -5,7 +5,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 271.5 kB Used in GitHub's Storage 
+> 📦 271.6 kB Used in GitHub's Storage 
  > 
 > 🏆 274 Contributions in the Year 2023
  > 
@@ -42,16 +42,19 @@ Sunday                   131 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     2 mins              ████████████████░░░░░░░░░   63.61 % 
+TypeScript               0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+praam-scrap2             3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -71,5 +74,5 @@ Svelte                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Piilu/Piilu/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2023 18:39:16 UTC
+ Last Updated on 06/08/2023 18:39:15 UTC
 <!--END_SECTION:waka-->
