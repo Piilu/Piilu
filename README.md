@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -42,17 +42,16 @@ Sunday                   195 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-TypeScript               3 hrs 13 mins       █████████████████████████   99.95 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TypeScript               1 hr 37 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 37 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-praam                    3 hrs 14 mins       █████████████████████████   100.00 % 
+praam                    1 hr 37 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -72,5 +71,5 @@ Svelte                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Piilu/Piilu/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2023 18:39:10 UTC
+ Last Updated on 09/10/2023 18:39:32 UTC
 <!--END_SECTION:waka-->
