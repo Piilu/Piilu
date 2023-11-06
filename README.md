@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-445%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -7,11 +7,11 @@
 
 > 📦 272.7 kB Used in GitHub's Storage 
  > 
-> 🏆 301 Contributions in the Year 2023
+> 🏆 303 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 26 Public Repositories 
  > 
 > 🔑 17 Private Repositories 
  > 
@@ -62,11 +62,11 @@ Windows                  9 hrs 2 mins        ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               23 repos            ██████████████░░░░░░░░░░░   57.50 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-C#                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+JavaScript               24 repos            ███████████████░░░░░░░░░░   58.54 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+C#                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
@@ -76,5 +76,5 @@ Svelte                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Piilu/Piilu/main/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2023 18:39:06 UTC
+ Last Updated on 06/11/2023 18:40:09 UTC
 <!--END_SECTION:waka-->
