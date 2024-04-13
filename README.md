@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-782%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-782%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 278.2 kB Used in GitHub's Storage 
+> 📦 278.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,8 +51,8 @@ VS Code                  14 hrs 15 mins      ███████████�
 Intellijidea             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🐱‍💻 Projects: 
-email_service2           6 hrs 49 mins       ████████████░░░░░░░░░░░░░   46.54 % 
-email_service            6 hrs 9 mins        ███████████░░░░░░░░░░░░░░   42.01 % 
+email_service2           6 hrs 49 mins       ████████████░░░░░░░░░░░░░   46.55 % 
+email_service            6 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   42.00 % 
 sinilill                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 praamid-svelte           25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 praamidapi               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
@@ -78,5 +78,5 @@ Jinja                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Piilu/Piilu/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2024 18:39:03 UTC
+ Last Updated on 13/04/2024 18:39:19 UTC
 <!--END_SECTION:waka-->
